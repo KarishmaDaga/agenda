@@ -13,7 +13,7 @@
   - CISC 223 assignment 8
 - _friday (23)_: 
 
-### march 26 - 30
+### march 26 - 30 (week 11)
 - _monday (26)_: 
 - _tuesday (27)_: 
   - **STAT 269 assignment 5 due** 
@@ -23,7 +23,7 @@
   - CISC 223 assignment 9
 - _friday (30)_: 
 
-### april 2 - 6
+### april 2 - 6 (week 12)
 - _monday (2)_: 
 - _tuesday (3)_: 
 - _wednesday (4)_:
@@ -33,7 +33,7 @@
   - CISC 223 assignment 10
 - _friday (6)_: 
 
-### april 9 - 13
+### april 9 - 13 (exam szn hahahahah 🔥)
 - _monday (9)_: 
   - **CISC 235 Assignment 4 due**
 - _tuesday (10)_: 
