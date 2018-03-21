@@ -1,11 +1,11 @@
 # (dead)lines 
 
 ### march 19 - 23 (week 10)
-- ~~_monday (19)_: ~~
+- ~~_monday (19)_:~~
   - [x] **data structures test: heap, heap sort, double hashing (?)** :))
   - ~~[ ] PM workshop~~
 - ~~_tuesday (20)_: 
-- _wednesday (21)_: ~~
+- _wednesday (21)_:~~
   - [x] **CISC 260 assignment 5 due**
   - [ ] go to TA hours and finish 223 assn
 - _thursday (22)_: 
