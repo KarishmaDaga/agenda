@@ -13,6 +13,15 @@
   - [ ] CISC 223 assignment 8
 - _friday (23)_: 
 
+To do: 
+- Data Structures: 
+  - DFS for Graphs
+  - MST 
+- Statistics
+  - confidence intervals
+  - review notes on everything after midterm
+- 260: read prolog lectures, understand 
+
 ### march 26 - 30 (week 11)
 - _monday (26)_: 
 - _tuesday (27)_: 
