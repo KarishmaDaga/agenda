@@ -20,14 +20,15 @@ To do:
 - Statistics
   - confidence intervals
   - review notes on everything after midterm
+  - do assn 5 
 - 260: read prolog lectures, understand 
 
 ### march 26 - 30 (week 11)
 - _monday (26)_: 
 - _tuesday (27)_: 
   - [ ] **STAT 269 assignment 5 due** 
-- _wednesday (28)_: 
   - [ ] **CISC 260 Quiz 3**
+- _wednesday (28)_: 
 - _thursday (29)_: 
   - [ ] CISC 223 assignment 9
 - _friday (30)_: 
