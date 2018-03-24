@@ -5,13 +5,13 @@
   - [x] **data structures test: heap, heap sort, double hashing (?)** :))
   - ~~[ ] PM workshop~~
 - ~~_tuesday (20)_:~~ 
-- _wednesday (21)_:
+- ~~_wednesday (21)_:~~
   - [x] **CISC 260 assignment 5 due**
-  - [ ] go to TA hours and finish 223 assn
-- _thursday (22)_: 
-  - [ ] **Ashley's bday!!!**
-  - [ ] CISC 223 assignment 8
-- _friday (23)_: 
+  - ~~[ ] go to TA hours and finish 223 assn~~
+- ~~_thursday (22)_:~~ 
+  - [x] **Ashley's bday!!!**
+  - [x] CISC 223 assignment 8
+- ~~_friday (23)_:~~ 
 
 To do: 
 - Data Structures: 
