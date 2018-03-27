@@ -33,6 +33,7 @@
 - _thursday (5)_: 
   - [ ] CISC 223 assignment 10
 - _friday (6)_: 
+  - [ ] STAT 269 assn 6 due
 
 ### april 9 - 13 (exam szn hahahahah 🔥)
 - _monday (9)_: 
