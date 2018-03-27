@@ -18,7 +18,7 @@
 - ~~_tuesday (27)_:~~ 
   - [x] **STAT 269 assignment 5 due** 
   - [x] **CISC 260 Quiz 3**
-- _wednesday (28)_: 
+- _wednesday (28)_: START EXAM REVIEW -> 269, 223, 260.
 - _thursday (29)_: 
   - [ ] CISC 223 assignment 9
 - _friday (30)_: 
