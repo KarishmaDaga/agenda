@@ -20,13 +20,14 @@
   - [x] **CISC 260 Quiz 3**
 - _wednesday (28)_: START EXAM REVIEW -> 269, 223, 260.
 - _thursday (29)_: 
-  - [ ] CISC 223 assignment 9
+  - [x] CISC 223 assignment 9
 - _friday (30)_: 
-  - [ ] 221 lab 8 due
+  - [x] 221 lab 8 due
 
 ### april 2 - 6 (week 12)
 - _monday (2)_: 
-- _tuesday (3)_: 
+- _tuesday (3)_:
+  - [ ] CISC 221 Quiz 4
 - _wednesday (4)_:
   - [ ] **CISC 235 Test 4**
   - [ ] **CISC 260 Assignment 6 due**
