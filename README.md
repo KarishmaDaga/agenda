@@ -56,7 +56,7 @@
 
 
 **Exam Review Checklist 
-- [ ] STAT 269**
+- [ ] **STAT 269**
   - [ ] _Topic 1: Multivariate Distributions_
     - [ ] Conditional PDF for continuous r.v.s
     - [ ] Independence of r.v.s
@@ -87,7 +87,7 @@
     - [ ] do old midterms and exams 
     - [ ] do class problems
     
-- [ ] **CISC 223
-- [ ] CISC 260**
+- [ ] **CISC 223**
+- [ ] **CISC 260**
   - [ ] Haskell
   - [ ] Prolog
