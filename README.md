@@ -53,3 +53,41 @@
 - _wednesday (18)_: leave this godforsaken place
 - _thursday (19)_: 
 - _friday (20)_: 
+
+
+**Exam Review Checklist 
+- [ ] STAT 269**
+  - [ ] _Topic 1: Multivariate Distributions_
+    - [ ] Conditional PDF for continuous r.v.s
+    - [ ] Independence of r.v.s
+    - [ ] Product of Moments
+    - [ ] Moments of Linear Combinations of r.v.s
+    - [ ] Covariance and Correlation
+  - [ ] _Topic 2: Functions of Random Variables_
+    - [ ] Method of CDF
+    - [ ] Method of transformation
+    - [ ] Method of MGF
+  - [ ] _Topic 3: Sampling Distributions_
+    - [ ] Sample mean, sample variance, central limit theorem
+    - [ ] Chi-Square Distribution
+    - [ ] T Distribution
+    - [ ] F Distribution
+    - [ ] Order statistics: maximum, minimum, median, etc.
+  - [ ] _Topic 4: Estimators_
+    - [ ] Criteria to compare estimators: bias, variance, mean square error
+    - [ ] Finding estimators: method of moments, method of maximum likelihood
+  - [ ] _Topic 5: Interval Estimation_
+    - [ ] Confidence intervals for means, proportions, variance and related quantities
+  - [ ] _Topic 6: Hypothesis Testing_
+    - [ ] Hypothesis Testing
+    - [ ] Tests for means, proportions, variances and related quantities
+
+  - General Approach: 
+    - [ ] do old assignments
+    - [ ] do old midterms and exams 
+    - [ ] do class problems
+    
+- [ ] **CISC 223
+- [ ] CISC 260**
+  - [ ] Haskell
+  - [ ] Prolog
