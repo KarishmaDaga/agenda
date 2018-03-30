@@ -55,7 +55,7 @@
 - _friday (20)_: 
 
 
-**Exam Review Checklist 
+**Exam Review Checklist**
 - [ ] **STAT 269**
   - [ ] _Topic 1: Multivariate Distributions_
     - [ ] Conditional PDF for continuous r.v.s
