@@ -18,23 +18,24 @@
 - ~~_tuesday (27)_:~~ 
   - [x] **STAT 269 assignment 5 due** 
   - [x] **CISC 260 Quiz 3**
-- _wednesday (28)_: START EXAM REVIEW -> 269, 223, 260.
-- _thursday (29)_: 
+- ~~_wednesday (28)_: START EXAM REVIEW -> 269, 223, 260.~~
+- ~~_thursday (29)_:~~ 
   - [x] CISC 223 assignment 9
-- _friday (30)_: 
+- ~~_friday (30)_:~~ 
   - [x] 221 lab 8 due
 
 ### april 2 - 6 (week 12)
-- _monday (2)_: 
-- _tuesday (3)_:
-  - [ ] CISC 221 Quiz 4
-- _wednesday (4)_:
-  - [ ] **CISC 235 Test 4**
-  - [ ] **CISC 260 Assignment 6 due**
+- ~~_monday (2)_:~~ 
+- ~~_tuesday (3)_:~~
+  - [x] CISC 221 Quiz 4
+- ~~_wednesday (4)_:~~
+  - [x] **CISC 235 Test 4**
 - _thursday (5)_: 
-  - [ ] CISC 223 assignment 10
+  - [x] CISC 223 assignment 10
 - _friday (6)_: 
   - [ ] STAT 269 assn 6 due
+  - [ ] **CISC 260 Assignment 6 due**
+
 
 ### april 9 - 13 (exam szn hahahahah 🔥)
 - _monday (9)_: 
